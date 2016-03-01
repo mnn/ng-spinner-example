@@ -1,0 +1,7 @@
+#spinner {
+  background-color: gold;
+}
+
+#spinner.loading {
+  background-color: red;
+}
